@@ -1,6 +1,7 @@
 {
     "name": "devops/php-calculator",
     "description": "A simple PHP calculator project for learning DevOps with GitHub Actions",
+    "license": "MIT",
     "require": {},
     "require-dev": {
         "phpunit/phpunit": "^9.5"
