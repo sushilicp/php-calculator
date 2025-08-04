@@ -1,0 +1,13 @@
+{
+    "name": "devops/php-calculator",
+    "description": "A simple PHP calculator project for learning DevOps with GitHub Actions",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
