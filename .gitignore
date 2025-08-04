@@ -1,0 +1,22 @@
+# Ignore Composer vendor directory
+vendor/
+
+# Ignore Composer lock file (optional, include if you want to regenerate it on CI)
+composer.lock
+
+# Ignore PHP temporary files
+*.log
+*.cache
+*.bak
+*.swp
+*~
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE and editor files
+.vscode/
+
+# Ignore PHPUnit test results
+.phpunit.result.cache
